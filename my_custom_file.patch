@@ -1,0 +1,11 @@
+diff --git a/test.txt b/test.txt
+index 4cb050a..0fa761e 100644
+--- a/test.txt
++++ b/test.txt
+@@ -1,4 +1,4 @@
+ changement dans le fichier
+ 
+-ligne qui sera supprimée
+ 
++et une ligne ajoutée
+\ No newline at end of file
